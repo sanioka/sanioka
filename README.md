@@ -1,5 +1,3 @@
-
-
 <!--
 
 ### Hi there 👋
@@ -36,11 +34,13 @@ Optimization, Reducing Tech Debt and LTS
 * 🤝 I'm open to be your IT Mentor
 * ⚡ I\\m secretly ...
 
-<a href="https://www.github.com/sanioka" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sanioka?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sanioka" target="_blank" rel="noreferrer"><
-img
-src="https://img.shields.io/twitter/follow/sanioka?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/sanioka" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/sanioka?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+<a href="https://www.x.com/sanioka" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/sanioka?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
 
 ### Skills
 
